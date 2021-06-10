@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rizwan Hanif
+- 👀 I’m interested in software development, scalable application designing, recommendation systems (analytics)
+- 🌱 I’m currently learning MEAN stack i.e. JS, Node, Angular, TypeScript
